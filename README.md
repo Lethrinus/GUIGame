@@ -1,6 +1,6 @@
 ## **Project: Escape the House Game**
 
-This project is an immersive Escape the House game developed in Python using the Tkinter library for GUI, with integration of multiple features like multilingual support, game statistics, and dynamic gameplay elements. The game consists of multiple interconnected rooms, puzzles, and challenges to provide players with an engaging experience.
+This project is  an immersive Escape the House game developed in Python using the Tkinter library for GUI, with integration of multiple features like multilingual support, game statistics, and dynamic gameplay elements. The game consists of multiple interconnected rooms, puzzles, and challenges to provide players with an engaging experience.
 
 ## **Key Features**
 
