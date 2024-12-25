@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "file": "assets/duvar.png",
+      "resize": [1500, 300],
+      "position": [0, 0],
+      "anchor": "center",
+      "name": "duvar1"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [100, 250],
+      "anchor": "center",
+      "name": "zemin1"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [300, 250],
+      "anchor": "center",
+      "name": "zemin2"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [500, 250],
+      "anchor": "center",
+      "name": "zemin3"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [700, 250],
+      "anchor": "center",
+      "name": "zemin4"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [100, 450],
+      "anchor": "center",
+      "name": "zemin5"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [300, 450],
+      "anchor": "center",
+      "name": "zemin6"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [500, 450],
+      "anchor": "center",
+      "name": "zemin7"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [700, 450],
+      "anchor": "center",
+      "name": "zemin8"
+    },
+    {
+      "file": "assets/pencere.png",
+      "resize": [100, 100],
+      "position": [357, 50],
+      "anchor": "center",
+      "name": "pencere"
+    },
+    {
+      "file": "assets/buzdolabi.png",
+      "resize": [125, 190],
+      "position": [75, 125],
+      "anchor": "center",
+      "name": "buzdolabı"
+    },
+    {
+      "file": "assets/ocak.png",
+      "resize": [110, 140],
+      "position": [200, 135],
+      "anchor": "center",
+      "name": "ocak"
+    },
+    {
+      "file": "assets/tezgah.png",
+      "resize": [350, 140],
+      "position": [460, 135],
+      "anchor": "center",
+      "name": "tezgah"
+    },
+    {
+      "file": "assets/mutfakmalzemesi.png",
+      "resize": [70, 80],
+      "position": [500, 40],
+      "anchor": "center",
+      "name": "mutfakmalzemesi"
+    },
+    {
+      "file": "assets/yanduranhali.png",
+      "resize": [300, 200],
+      "position": [350, 350],
+      "anchor": "center",
+      "name": "halı"
+    },
+    {
+      "file": "assets/yanduranmasa.png",
+      "resize": [360, 180],
+      "position": [350, 450],
+      "anchor": "center",
+      "name": "masa"
+    },
+    {
+      "file": "assets/yanduransandalye.png",
+      "resize": [100, 180],
+      "position": [100, 425],
+      "anchor": "center",
+      "name": "sandalye"
+    },
+    {
+      "file": "assets/yemek.png",
+      "resize": [50, 50],
+      "position": [210, 420],
+      "anchor": "center",
+      "name": "yemek"
+    },
+    {
+      "file": "assets/sarap.png",
+      "resize": [25, 45],
+      "position": [210, 370],
+      "anchor": "center",
+      "name": "köpeköldüren"
+    }
+  ]
+}

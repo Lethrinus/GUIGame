@@ -1,0 +1,123 @@
+{
+    "images": [
+        {
+            "name": "duvar1",
+            "file": "assets/banyoduvari.png",
+            "resize": [1500, 300],
+            "position": [0, 0],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin1",
+            "file": "assets/banyozemin.png",
+            "resize": [200, 200],
+            "position": [100, 250],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin2",
+            "file": "assets/banyozemin.png",
+            "resize": [200, 200],
+            "position": [300, 250],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin3",
+            "file": "assets/banyozemin.png",
+            "resize": [200, 200],
+            "position": [500, 250],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin4",
+            "file": "assets/banyozemin.png",
+            "resize": [200, 200],
+            "position": [700, 250],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin5",
+            "file": "assets/banyozemin3.png",
+            "resize": [200, 200],
+            "position": [100, 450],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin6",
+            "file": "assets/banyozemin3.png",
+            "resize": [200, 200],
+            "position": [300, 450],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin7",
+            "file": "assets/banyozemin3.png",
+            "resize": [200, 200],
+            "position": [500, 450],
+            "anchor": "center"
+        },
+        {
+            "name": "zemin8",
+            "file": "assets/banyozemin3.png",
+            "resize": [200, 200],
+            "position": [700, 450],
+            "anchor": "center"
+        },
+        {
+            "name": "gider",
+            "file": "assets/gider.png",
+            "resize": [50, 50],
+            "position": [650, 515],
+            "anchor": "center"
+        },
+        {
+            "name": "kuvet",
+            "file": "assets/kuvet.png",
+            "resize": [170, 125],
+            "position": [100, 150],
+            "anchor": "center"
+        },
+        {
+            "name": "klozet",
+            "file": "assets/klozet.png",
+            "resize": [125, 125],
+            "position": [60, 355],
+            "anchor": "center"
+        },
+        {
+            "name": "lavabo",
+            "file": "assets/lavabo.png",
+            "resize": [100, 125],
+            "position": [500, 100],
+            "anchor": "center"
+        },
+        {
+            "name": "havlu",
+            "file": "assets/havlu.png",
+            "resize": [50, 50],
+            "position": [600, 80],
+            "anchor": "center"
+        },
+        {
+            "name": "ordek",
+            "file": "assets/ordek.png",
+            "resize": [45, 40],
+            "position": [125, 125],
+            "anchor": "center"
+        },
+        {
+            "name": "banyomati",
+            "file": "assets/banyohalisi.png",
+            "resize": [300, 175],
+            "position": [400, 375],
+            "anchor": "center"
+        },
+        {
+            "name": "blok",
+            "file": "assets/blok.png",
+            "resize": [50, 35],
+            "position": [115, 225],
+            "anchor": "center"
+        }
+    ]
+}

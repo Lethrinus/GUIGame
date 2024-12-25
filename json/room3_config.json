@@ -1,0 +1,109 @@
+{
+  "images": [
+    {
+      "file": "assets/duvar.png",
+      "resize": [1500, 300],
+      "position": [0, 0],
+      "anchor": "center",
+      "name": "duvar1"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [100, 250],
+      "anchor": "center",
+      "name": "zemin1"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [300, 250],
+      "anchor": "center",
+      "name": "zemin2"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [500, 250],
+      "anchor": "center",
+      "name": "zemin3"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [700, 250],
+      "anchor": "center",
+      "name": "zemin4"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [100, 450],
+      "anchor": "center",
+      "name": "zemin5"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [300, 450],
+      "anchor": "center",
+      "name": "zemin6"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [500, 450],
+      "anchor": "center",
+      "name": "zemin7"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [700, 450],
+      "anchor": "center",
+      "name": "zemin8"
+    },
+    {
+      "file": "assets/kutuphane.png",
+      "resize": [210, 210],
+      "position": [125, 110],
+      "anchor": "center",
+      "name": "kitaplık"
+    },
+    {
+      "file": "assets/saat.png",
+      "resize": [110, 190],
+      "position": [310, 110],
+      "anchor": "center",
+      "name": "saat"
+    },
+    {
+      "file": "assets/plakcalar.png",
+      "resize": [110, 110],
+      "position": [640, 490],
+      "anchor": "center",
+      "name": "plak"
+    },
+    {
+      "file": "assets/kasa.png",
+      "resize": [100, 100],
+      "position": [500, 150],
+      "anchor": "center",
+      "name": "kasa"
+    },
+    {
+      "file": "assets/kilim.png",
+      "resize": [200, 100],
+      "position": [575, 325],
+      "anchor": "center",
+      "name": "kilim"
+    },
+    {
+      "file": "assets/tersdurankoltuk.png",
+      "resize": [250, 125],
+      "position": [260, 490],
+      "anchor": "center",
+      "name": "koltuk2"
+    }
+  ]
+}

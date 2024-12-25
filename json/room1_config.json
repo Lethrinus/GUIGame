@@ -1,0 +1,130 @@
+{
+  "images": [
+    {
+      "file": "assets/duvar.png",
+      "resize": [1500, 300],
+      "position": [0, 0],
+      "anchor": "center",
+      "name": "duvar1"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [100, 250],
+      "anchor": "center",
+      "name": "zemin1"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [300, 250],
+      "anchor": "center",
+      "name": "zemin2"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [500, 250],
+      "anchor": "center",
+      "name": "zemin3"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [700, 250],
+      "anchor": "center",
+      "name": "zemin4"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [100, 450],
+      "anchor": "center",
+      "name": "zemin5"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [300, 450],
+      "anchor": "center",
+      "name": "zemin6"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [500, 450],
+      "anchor": "center",
+      "name": "zemin7"
+    },
+    {
+      "file": "assets/zemin.png",
+      "resize": [200, 200],
+      "position": [700, 450],
+      "anchor": "center",
+      "name": "zemin8"
+    },
+    {
+      "file": "assets/pencere.png",
+      "resize": [100, 100],
+      "position": [145, 50],
+      "anchor": "center",
+      "name": "pencere1"
+    },
+    {
+      "file": "assets/pencere.png",
+      "resize": [100, 100],
+      "position": [555, 50],
+      "anchor": "center",
+      "name": "pencere2"
+    },
+    {
+      "file": "assets/koltuk1.png",
+      "resize": [250, 125],
+      "position": [350, 100],
+      "anchor": "center",
+      "name": "koltuk"
+    },
+    {
+      "file": "assets/aski.png",
+      "resize": [60, 200],
+      "position": [650, 350],
+      "anchor": "center",
+      "name": "askı"
+    },
+    {
+      "file": "assets/kilim.png",
+      "resize": [200, 100],
+      "position": [350, 265],
+      "anchor": "center",
+      "name": "kilim"
+    },
+    {
+      "file": "assets/minikmasa.png",
+      "resize": [100, 100],
+      "position": [350, 250],
+      "anchor": "center",
+      "name": "minikmasa"
+    },
+    {
+      "file": "assets/yandurandolap.png",
+      "resize": [75, 150],
+      "position": [40, 250],
+      "anchor": "center",
+      "name": "dolap"
+    },
+    {
+      "file": "assets/terssandalye.png",
+      "resize": [65, 130],
+      "position": [240, 485],
+      "anchor": "center",
+      "name": "sandalye1"
+    },
+    {
+      "file": "assets/terssandalye.png",
+      "resize": [65, 130],
+      "position": [160, 485],
+      "anchor": "center",
+      "name": "sandalye2"
+    }
+  ]
+}
